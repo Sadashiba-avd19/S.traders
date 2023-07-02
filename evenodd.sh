@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+#dipu creation
 echo "Enter the number: "
 read num
 
