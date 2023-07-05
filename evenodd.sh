@@ -1,11 +1,11 @@
-#!/bin/bash
+#/bin/bash
 
-
-echo "Enter the number: "
+echo "enter the number: "
 read num
 
 if [ `expr $num % 2` -eq 0 ]
-then
+
+then 
 	echo "$num is even"
 else
 	echo "$num is odd"
